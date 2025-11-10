@@ -24,6 +24,12 @@ const default_configuration = {
       format: "k:i p",
       icon_color: palette.blue,
     },
+    {
+      label: "LA",
+      timezone: "America/Los_Angeles",
+      format: "k:i p",
+      icon_color: palette.yellow,
+    },
   ],
   search: {
     engines: {
