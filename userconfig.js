@@ -15,7 +15,7 @@ const default_configuration = {
   },
   clock: {
     format: "k:i p",
-    locale: "es_MX",
+    locale: "es-MX",
     icon_color: palette.maroon,
   },
   additionalClocks: [
