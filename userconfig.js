@@ -19,17 +19,17 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "NYC",
-      timezone: "America/New_York",
-      format: "k:i p",
-      icon_color: palette.blue,
-    },
-    {
       label: "LA",
       timezone: "America/Los_Angeles",
       format: "k:i p",
       icon_color: palette.yellow,
     },
+    {
+      label: "NYC",
+      timezone: "America/New_York",
+      format: "k:i p",
+      icon_color: palette.blue,
+    }, 
   ],
   search: {
     engines: {
